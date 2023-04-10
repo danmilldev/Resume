@@ -10,3 +10,7 @@
 - CurrencyChange ( A Currency changing application supports EUR USD and JPY and will be expected  to be out of date)
 - SimpleLibrary
 - CinemaTicketSystem
+
+## C# SQL & EF Core Console Applications
+
+- TaskManagerSQLProject (Simple Crud Application to retrieve edit and create new tasks in an MSSQL Database)
