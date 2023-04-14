@@ -7,7 +7,7 @@
 - [FiboCalculator](https://github.com/danmilldev/FiboCalculator) ( Calculating the amount of numbers given on fibonacchi numbers)
 - [FizzBuzz](https://github.com/danmilldev/FizzBuzz) ( A logic puzzle where you check for the modulus and printing something as result)
 - [UpOrDown](https://github.com/danmilldev/UpOrDown) ( a game where you have to guess the correct numbers and will get hints based on the input)
-- [CurrencyChange](https://github.com/danmilldev/CurrencyChange) ( A Currency changing application supports EUR USD and JPY and will be expected  to be out of date)
+- [CurrencyChange](https://github.com/danmilldev/CurrencyChange) ( A Currency changing application supports EUR USD and JPY)
 - [SimpleLibrary](https://github.com/danmilldev/SimpleLibrary)
 - [CinemaTicketSystem](https://github.com/danmilldev/CinemaTicketSystem)
 
