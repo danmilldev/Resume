@@ -18,3 +18,5 @@
 ## Testing
 
 - [TestingWithTheDebugger](https://github.com/danmilldev/TestingWithTheDebugger) (Some simple testing in C#)
+- [Python Calculator Console App](https://github.com/danmilldev/Python-Calculator) (Python Calculator with pytest)
+- [JS Calculator] (https://github.com/danmilldev/JS-Calculator) (Testing in form of Jest)
